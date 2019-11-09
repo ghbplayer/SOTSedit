@@ -1,0 +1,48 @@
+﻿type *cfg | sed -e s/#.*//g | grep i >a & move a SOTSEdit.cfg
+
+One may alter a players ideal hazard, but unless the race is altered, the max population will suffer.
+
+trouble changing planet names to anything longer
+
+
+Features:
+	View passwords for saved games
+	Alter ideal hazard ratings for each player and species
+	Alter hazard tolerances
+	Add/remove money
+	Alter player research rates
+	Alter player industrial output (IO) rates
+	Alter player income rates
+	Alter player Population growth rates
+	Alter player terraforming rates
+	Alter planet size
+	Alter planet hazard ratings
+	Alter planet resources
+	Alter planet asteroid resources
+	Alter planet infrastructure
+	Alter planet imperial and civilian populations
+	Alter planet owner
+	Order abandon colonies
+	Destroy stars or restore them from system killer grand menace
+	Addict or cure planets
+
+Features, super brief:
+	View passwords
+	Change ideal hazard
+	Change hazard tolerance
+	Add money
+	Change research rates
+	Change industrial rates
+	Change income rates
+	Change growth rates
+	Change terraform rates
+	Change planet size
+	Change planet hazard
+	Change resources
+	Change asteroid resources
+	Change infrastructure
+	Change populations
+	Steal planets
+	Order abandon colonies
+	Annihilate/restore planets
+	Addict/cure
